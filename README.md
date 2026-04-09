@@ -45,11 +45,11 @@ Ce second dashboard met en avant les forces du business :
 
 ### Performance globale
 
-![Dashboard Performance](Images/Dash Perf.png)
+![Dashboard Performance](Images/Dash_Perf.png)
 
 ### Tops et best performers
 
-![Dashboard Tops](Images/Dash Tops.png)
+![Dashboard Tops](Images/Dash_Tops.png)
 
 ---
 
