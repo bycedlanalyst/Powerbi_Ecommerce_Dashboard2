@@ -1,96 +1,94 @@
-# 📊 Power BI – E‑commerce Performance Dashboard
+# 📊 Power BI – Dashboard E‑commerce
 
-## 🧭 Présentation du projet
+## 🧭 Présentation
 
-Ce projet Power BI vise à analyser la performance d’une activité e‑commerce à travers des indicateurs clés (KPIs) clairs, visuels et orientés décision. Il a été conçu dans une logique **Business Intelligence**, en transformant des données brutes en informations exploitables pour le pilotage commercial et stratégique.
+Ce projet Power BI analyse la performance d’une activité e‑commerce avec des visualisations claires, des KPIs stratégiques et des insights actionnables.
 
-L’objectif est simple : **donner du sens aux chiffres** et permettre une lecture rapide des performances globales et détaillées.
+L’approche vise à rendre les chiffres compréhensibles rapidement et à faciliter le pilotage commercial.
 
 ---
 
 ## 🎯 Objectifs
 
-* Analyser le chiffre d’affaires et la performance commerciale
-* Identifier les produits, marques, canaux et catégories les plus performants
-* Suivre l’évolution des ventes dans le temps
-* Fournir une base d’aide à la décision data‑driven
+* Mesurer la performance commerciale globale
+* Comparer les résultats par canal, marque et catégorie
+* Identifier les meilleurs vendeurs et leviers de croissance
+* Soutenir les décisions avec des données fiables
 
 ---
 
 ## 🗂️ Structure des dashboards
 
-### 1️⃣ Dashboard E‑commerce – Performance globale
+### 1️⃣ Performance globale
 
-Ce dashboard donne une vue d’ensemble de l’activité :
+Ce tableau de bord permet de suivre les résultats à un niveau macro :
 
-* **CA Total**
-* **CA Net**
-* **CA Moyen**
-* **CA MTD (Month‑To‑Date)**
-* Évolution du CA par semaine
-* Répartition du CA par marque
-* Taux par catégorie
-* Taux par chaîne (Web, Mobile, Marketplace)
-* Taux de consommation par pays
+* Chiffre d’affaires total, net et moyen
+* Évolution des ventes semaine après semaine
+* Répartition par marque, catégorie et canal
+* Analyse géographique des ventes
 
-👉 Idéal pour un suivi global et rapide de la performance.
+### 2️⃣ Tops et analyses détaillées
 
----
+Ce second dashboard met en avant les forces du business :
 
-### 2️⃣ Dashboard des Tops – Analyse détaillée
-
-Ce dashboard met en avant les meilleures performances selon plusieurs axes :
-
-* **Top Catégories**
-* **Top Marques**
-* **Top Canaux de vente**
-* **Top Villes**
-* **Top Méthodes de paiement**
-* **Top Produits**
-
-👉 Parfait pour identifier les leviers de croissance et les priorités business.
+* Top catégories
+* Top marques
+* Top canaux de vente
+* Top villes
+* Top produits
+* Top méthodes de paiement
 
 ---
 
-## 📈 KPIs clés analysés
+## 🖼️ Aperçu des dashboards
+
+### Performance globale
+
+![Dashboard Performance](Dash%20Perf.png)
+
+### Tops et best performers
+
+![Dashboard Tops](Dash%20Tops.png)
+
+---
+
+## 📈 KPIs suivis
 
 * Chiffre d’affaires total et net
-* Chiffre d’affaires moyen
-* CA par produit, marque et catégorie
-* Performance par canal de vente
-* Répartition géographique des ventes
-* Tendances temporelles (hebdomadaires)
+* Taux de croissance par période
+* CA par catégorie, marque et produit
+* Performances par canal de vente
+* Répartition géographique
+* Classement des tops performers
 
 ---
 
-## 🛠️ Outils & technologies
+## 🛠️ Technologies utilisées
 
 * **Power BI Desktop**
-* **Modélisation de données**
-* **Mesures DAX**
-* **Nettoyage et structuration des données**
-* **Visualisations interactives**
+* **Modélisation de données et exploration BI**
+* **DAX** pour mesures avancées
+* **Visualisations interactives et dynamiques**
 
 ---
 
-## 🧠 Approche Data
-
-Le projet suit une démarche classique de Business Intelligence :
+## 🧠 Approche méthodologique
 
 1. Compréhension du besoin métier
-2. Structuration et modélisation des données
-3. Création de mesures pertinentes (DAX)
-4. Conception de dashboards lisibles et orientés utilisateur
-5. Mise en avant des insights clés
+2. Préparation et structuration des données
+3. Modélisation du modèle de données
+4. Création de mesures pertinentes en DAX
+5. Conception de dashboards intuitifs et exploitables
 
 ---
 
 ## 📌 Cas d’usage
 
-* Pilotage de la performance e‑commerce
-* Analyse des ventes et du comportement client
+* Pilotage de l’activité e-commerce
+* Analyse des canaux et produits rentables
 * Support à la prise de décision commerciale
-* Démonstration de compétences BI / Data Analyst
+* Démonstration de compétences BI et analyse de données
 
 ---
 
@@ -98,8 +96,9 @@ Le projet suit une démarche classique de Business Intelligence :
 
 **Cédric BOIMIN**
 Data Analyst | Business Intelligence | Big Data & IA
+
 ---
 
-## 🚀 À propos
+## 💡 Note
 
-Ce projet s’inscrit dans une démarche d’apprentissage continu et de professionnalisation en analyse de données. Il illustre ma capacité à transformer des données en dashboards exploitables, clairs et orientés impact business.
+Les captures d’écran ci-dessus illustrent les deux dashboards principaux du projet, offrant une navigation claire entre la performance globale et l’analyse des tops.
